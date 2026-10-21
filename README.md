@@ -2,22 +2,9 @@
 
 ![Pin lockscreen](screenshot.png)
 
-A SillyTavern UI extension that blocks the screen on startup and whenever the tab loses focus, then unlocks with your chosen 4-character PIN.
+A UI extension that blocks the screen on startup and whenever the tab loses focus, then unlocks with your chosen 4-character PIN.
 
 After three wrong attempts, it locks for 5 minutes. The lockout timestamp is stored in `localStorage`, so refreshing the tab does not skip the timer.
-
-## Install
-
-Place the contents of the repository in either:
-
-- `SillyTavern/public/scripts/extensions/third-party/blue-pin-lock`
-- `SillyTavern/data/<your-user-handle>/extensions/blue-pin-lock`
-
-Or, use the built-in SillyTavern Extensions Manager at `Extensions > Install Extension` using this link:
-
-`https://github.com/jesseblueberry/sillytavern_password_checker/`
-
-Then restart or reload SillyTavern and enable the extension if needed.
 
 ## PIN
 
