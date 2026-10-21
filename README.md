@@ -1,4 +1,4 @@
-# Popup-Password-Checker
+# Popup Password Checker
 
 ![Pin lockscreen](screenshot.png)
 
