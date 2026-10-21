@@ -1,4 +1,4 @@
-# Blue PIN Lock
+# Popup-Password-Checker
 
 ![Pin lockscreen](screenshot.png)
 
